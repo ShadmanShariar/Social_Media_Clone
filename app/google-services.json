@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255072538223",
+    "project_id": "fireapp-f5258",
+    "storage_bucket": "fireapp-f5258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255072538223:android:dcde8a09cf3aa70a29479a",
+        "android_client_info": {
+          "package_name": "com.example.facebookappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255072538223-gleigg97jvu7h71kf12a6e57tgn154lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscwj2w0SP4L0l8-nK5kHchSkvgvGaZAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255072538223-gleigg97jvu7h71kf12a6e57tgn154lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
